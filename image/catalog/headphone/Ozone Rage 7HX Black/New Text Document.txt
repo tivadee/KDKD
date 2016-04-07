@@ -1,0 +1,17 @@
+Tech specs
+ 
+Microphone
+Driver Diameter: ?6.0?5.0mm
+Directivity: Omnidirectional
+Impedance: ?2.2K?
+Sensitivity: -38dB(at 1KHz)
+Speaker
+Driver dimensions: ?40mm
+Frequency response: 20~20kHz
+Sensitivity (SPL): 99dB(At1.0 kHz)
+Impedance: 32?
+General
+Cable Length: 2.9m
+Inline audio controller with independent chat volume control
+Plug: USB plug
+Net Weight: 344 gr

@@ -1,0 +1,24 @@
+﻿Overview
+
+เป็นหูฟังที่ได้ออกแบบและผ่านการพัฒนามาอย่างยาวนานในทุกๆด้านไม่ว่าจะด้านเสียง รูปทรงความทนทานความสบายและเน้นใส่เป็นเวลายาวนาน เป็นหูฟังที่ใส่ใจในทุกลายละเอียดเพื่อตอบสนองความต้องการของเหล่านักเล่นเกม มีลูกเล่นทำให้หูฟังเป็น 7.1 มีน้ำหนักเบาเน้นใส่สบายใส่ได้เป็นเวลานาน ทำจากวัสดุคุณภาพสูงโครงเหล็กโฟมแบบ memory foam ทำให้สามารถคืนรูปได้แม้ใส่เป็นเวลายาวนาน mic พับเก็บได้ ใช้ได้ทั้ง ps4 และ pc
+
+ 
+
+Specification
+
+7.1 Virtual Surround Sound Headset
+Speaker Driver dimensions: ø44mm
+Speaker Sensitivity: 119 +/- 3DB
+Speaker Frequency response: 20~20kHz
+Headphone Impedance: 50 Ω
+Speaker Max Input: 100mW
+Microphone Directivity: omni-directional
+Microphone Sensitivity: -42 +/- 3 dB
+Microphone Impedance: 2.2k Ω
+Microphone Frequency Response: 100 ~ 10,000 Hz
+Microphone Dimension: 6 x 2,7mm
+Cable Length: 3 m
+Connector: USB
+Weight (w/o cable): 306gr
+PS4 & PC Compatible
+LED Lighting FX on earcups
